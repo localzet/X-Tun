@@ -396,3 +396,11 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+*.dll
+*.dat
+*.exe
+
+!/src/tun.dll
+!/src/wintun.dll
+!/src/tun2socks.exe
